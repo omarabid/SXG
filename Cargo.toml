@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2024"
 author = "Abid Omar <oss@omarabid.com>"
 description = "Google SXG (Signed HTTP Exchanges)"
-license = "none"
+license = "Apache-2.0"
 
 [dependencies]
